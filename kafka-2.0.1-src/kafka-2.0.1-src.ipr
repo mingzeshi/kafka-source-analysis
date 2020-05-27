@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.java" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+  <component name="CopyrightManager" default="">
+    <module2copyright />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OTHER_OPTIONS" value="" />
+  </component>
+  <component name="ProjectCodeStyleConfiguration">
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
+    <code_scheme name="Project" version="173">
+      <ScalaCodeStyleSettings>
+        <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+      </ScalaCodeStyleSettings>
+    </code_scheme>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/connect/api/api.iml" filepath="$PROJECT_DIR$/connect/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect/basic-auth-extension/basic-auth-extension.iml" filepath="$PROJECT_DIR$/connect/basic-auth-extension/basic-auth-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clients/clients.iml" filepath="$PROJECT_DIR$/clients/clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect/connect.iml" filepath="$PROJECT_DIR$/connect/connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect/file/file.iml" filepath="$PROJECT_DIR$/connect/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmh-benchmarks/jmh-benchmarks.iml" filepath="$PROJECT_DIR$/jmh-benchmarks/jmh-benchmarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect/json/json.iml" filepath="$PROJECT_DIR$/connect/json/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-2.0.1-src.iml" filepath="$PROJECT_DIR$/kafka-2.0.1-src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/kafka-2.0.1-src-examples.iml" filepath="$PROJECT_DIR$/examples/kafka-2.0.1-src-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log4j-appender/log4j-appender.iml" filepath="$PROJECT_DIR$/log4j-appender/log4j-appender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect/runtime/runtime.iml" filepath="$PROJECT_DIR$/connect/runtime/runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/examples/streams-examples.iml" filepath="$PROJECT_DIR$/streams/examples/streams-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams-scala/streams-scala.iml" filepath="$PROJECT_DIR$/streams/streams-scala/streams-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/test-utils/test-utils.iml" filepath="$PROJECT_DIR$/streams/test-utils/test-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/tools.iml" filepath="$PROJECT_DIR$/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect/transforms/transforms.iml" filepath="$PROJECT_DIR$/connect/transforms/transforms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-0100/upgrade-system-tests-0100.iml" filepath="$PROJECT_DIR$/streams/upgrade-system-tests-0100/upgrade-system-tests-0100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-0101/upgrade-system-tests-0101.iml" filepath="$PROJECT_DIR$/streams/upgrade-system-tests-0101/upgrade-system-tests-0101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-0102/upgrade-system-tests-0102.iml" filepath="$PROJECT_DIR$/streams/upgrade-system-tests-0102/upgrade-system-tests-0102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-0110/upgrade-system-tests-0110.iml" filepath="$PROJECT_DIR$/streams/upgrade-system-tests-0110/upgrade-system-tests-0110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-10/upgrade-system-tests-10.iml" filepath="$PROJECT_DIR$/streams/upgrade-system-tests-10/upgrade-system-tests-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-11/upgrade-system-tests-11.iml" filepath="$PROJECT_DIR$/streams/upgrade-system-tests-11/upgrade-system-tests-11.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.11.12" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.12/a1b5e58fd80cb1edc1413e904a346bfdb3a88333/scala-compiler-2.11.12.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.12/2bb23c13c527566d9828107ca4108be2a2c06f01/scala-reflect-2.11.12.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.5/77ac9be4033768cf03cc04fbd1fc5e5711de2459/scala-xml_2.11-1.0.5.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+      <state key="Copyright.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+        </UIState>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
+          </splitter-proportions>
+          <last-edited>1.6</last-edited>
+        </UIState>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+    </states>
+  </component>
+</project>
