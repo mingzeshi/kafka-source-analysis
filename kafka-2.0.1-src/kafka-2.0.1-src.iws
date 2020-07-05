@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a496afd-cb47-46b6-91ca-420fbe10bea8" name="Default Changelist" comment="" />
+    <list default="true" id="2a496afd-cb47-46b6-91ca-420fbe10bea8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/kafka-2.0.1-src.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-2.0.1-src.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-2.0.1-src.iws" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-2.0.1-src.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,9 @@
     <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
@@ -63,6 +69,7 @@
       <profile-state />
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -81,7 +88,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../jdk-source-analysis/jdk-source-1.8.0_102" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -175,6 +182,10 @@
       <workItem from="1590292179502" duration="8736000" />
       <workItem from="1590357416152" duration="2068000" />
       <workItem from="1590448114353" duration="2721000" />
+      <workItem from="1590622156452" duration="46000" />
+      <workItem from="1593057859181" duration="18000" />
+      <workItem from="1593156045968" duration="1280000" />
+      <workItem from="1593608869383" duration="47000" />
     </task>
     <servers />
   </component>
@@ -190,6 +201,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590292375810" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1593608916494">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1593608916494" />
     <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1590328842861">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
